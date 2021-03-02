@@ -18,6 +18,7 @@ _____
 ______
 
 [Classification Metrics for Beginners](https://jamesopacich.medium.com/classification-metrics-for-beginners-6e27a5eb4749)
+[How to Display a Kepler.gl Map Using Jupyter Notebook](https://jamesopacich.medium.com/display-a-kepler-gl-map-69d807dae082)
 
 
 
