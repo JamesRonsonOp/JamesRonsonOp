@@ -9,10 +9,21 @@ I am a team-oriented data scientist who creates relatable stories using machine 
 [![James' GitHub stats](https://github-readme-stats.vercel.app/api?username=JamesRonsonOp&show_icons=true&theme=tokyonight)
 
 _______
-### Projects
+### Skills
+______
+
+
+
+_______
+### Data Modeling and Analysis Projects
 _____
 
-
+* **Wine Varietal Predictor:** Modeled a 21-class predictor using a convolutional neural net that was able to predict wine varietals 3 times better than the baseline. 
+* **Auto Accident Severity Predictor:** Deployed a webapp that predicted auto accident severity as part of a team working on a data set with over 4.2 million observations.
+* **Social Media Classifier:** Extracted 6000+ social media posts from two different Reddit threads and processed them through a Natural Language Processing workflow that used a Voting Classifier model to classify them with a balanced accuracy of over 90% versus a baseline of 27.5%.
+* **Real Estate Price Predictor:** Analyzed a housing dataset with over 82 features to identify relationships and build a predictor model that could determine a housing price within less than 10% of its actual value. 
+* **STEM-Readiness Analysis:** Analyzed National and State of California ACT data to find relationships between size and type of school district and the influence on ACT science and math scores. 
+* **Distribution Expansion Analysis:** Analyzed demographic information of 6 potential regions to determine the best location for a regional distribution hub. 
 _____
 ### Publications
 ______
