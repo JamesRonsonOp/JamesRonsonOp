@@ -11,8 +11,12 @@ I am a team-oriented data scientist who creates relatable stories using machine 
 _______
 ### Skills
 ______
-
-
+**Querying:** PostgreSQL / SQLite
+**Coding:** Python | Analysis: Excel / Pandas
+**Visualization:** Matplotlib / Tableau
+**Machine Learning:** Sklearn / Tensorflow 2.0
+**Big Data:** Spark / Big Query | Workflow: Bash / Git
+**NLP** SpaCy, NLTK
 
 _______
 ### Data Modeling and Analysis Projects
