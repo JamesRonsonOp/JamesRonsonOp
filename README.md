@@ -17,8 +17,9 @@ _____
 ### Publications
 ______
 
-[Classification Metrics for Beginners](https://jamesopacich.medium.com/classification-metrics-for-beginners-6e27a5eb4749)
-[How to Display a Kepler.gl Map Using Jupyter Notebook](https://jamesopacich.medium.com/display-a-kepler-gl-map-69d807dae082)
+* [Classification Metrics for Beginners](https://jamesopacich.medium.com/classification-metrics-for-beginners-6e27a5eb4749)
+* [How to Display a Kepler.gl Map Using Jupyter Notebook](https://jamesopacich.medium.com/display-a-kepler-gl-map-69d807dae082)
+* [Interpreting Scattertext: a seductive tool for plotting text](https://jamesopacich.medium.com/interpreting-scattertext-a-seductive-tool-for-plotting-text-2e94e5824858)
 
 
 
