@@ -12,10 +12,13 @@ _______
 ### Skills
 ______
 * **Querying:** PostgreSQL / SQLite
-* **Coding:** Python | Analysis: Excel / Pandas
+* **Coding:** Python 
+* **Analysis:** Excel / Pandas
 * **Visualization:** Matplotlib / Tableau
 * **Machine Learning:** Sklearn / Tensorflow 2.0
-* **Big Data:** Spark / Big Query | Workflow: Bash / Git
+* **Big Data:** Spark / Big Query
+* **Workflow:** Bash / Git
+* **GeoSpatial** Kepler.gl, Geopandas
 * **NLP** SpaCy, NLTK
 
 _______
