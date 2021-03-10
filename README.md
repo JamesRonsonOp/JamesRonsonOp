@@ -1,6 +1,6 @@
 # Welcome to the Github of James Opacich
 
-## Find More About Me at [![James' Portfolio Site](https://jamesronsonop.github.io/#)
+## Find More About Me at [James' Portfolio Site](https://jamesronsonop.github.io/#)
 
 ____
 ### About Me
